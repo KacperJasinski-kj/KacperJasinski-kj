@@ -9,13 +9,13 @@ As a Junior developer I usually work with small self-made aplications, mostly fo
 
 ### Lenguages
 ---
-- <b>Java</b>
+- <b>Java</b><br>
   I would say Java is my main language, I really focused on it and have really strong knowledge of it.
-- <b>C++</b>
+- <b>C++</b><br>
   I'm currently learning this one at a fast rate because of the simmilarity with Java.
-- <b>JavaScript, CSS, html</b>
+- <b>JavaScript, CSS, html</b><br>
   I put this three together because I always use them for web pages, I have basic knowledge of them.
-- <b>SQL</b>
+- <b>SQL</b><br>
   I've worked a lot with SQL, I'm able to work with it with confidance. Also worked a little with PostreSQL.
 
 ### I’m currently working on
