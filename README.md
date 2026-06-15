@@ -1,6 +1,6 @@
-## Welcome to my profile👋
+## Welcome to my profile 👋
 ---
-Junior fullstack developer
+##### Junior fullstack developer
 ---
 
 ### About me
