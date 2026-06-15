@@ -12,11 +12,15 @@ As a Junior developer I usually work with small self-made aplications, mostly fo
 - <b>Java</b><br>
   I would say Java is my main language, I really focused on it and have really strong knowledge of it.
 - <b>C++</b><br>
-  I'm currently learning this one at a fast rate because of the simmilarity with Java.
+  Currently learning this one at a fast rate because of the simmilarity with Java.
 - <b>JavaScript, CSS, html</b><br>
-  I put this three together because I always use them for web pages, I have basic knowledge of them.
+  I put this three together because I almost always use them for web pages, I have basic knowledge of them.
 - <b>SQL</b><br>
-  I've worked a lot with SQL, I'm able to work with it with confidance. Also worked a little with PostreSQL.
+  Worked a lot with SQL, I'm able to work with it with confidance. Also worked a little with PostreSQL.
+- <b>Odoo</b><br>
+  Did some proyects with Odoo, implementing a few modules to optimize a business.
+- <b>Wordpress</b><br>
+  Used it to create webpages, I mostly used Elementor with it.
 
 ### I’m currently working on
 ---
